@@ -27,3 +27,9 @@ USAGE:
 Note:
 if no name or number of files is provided one file with name file 1.txt will be created
 If no extension is provided with the name all files created will be .txt files
+
+Batch Renamer(C#)
+This is a Standalone Exe. It's smaller than the python version.
+
+Note:
+Clicking the start button twice will change the space before the number to a underscore and vice versa.
